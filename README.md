@@ -1,5 +1,5 @@
 ## Olá!!! Eu sou o Eddie Alencar Costa 🖐🏻
-#### Estudante em Analíse e desenvolvimento de sistemas
+#### Estudante em Análise e desenvolvimento de sistemas
 
 <br/>
 
