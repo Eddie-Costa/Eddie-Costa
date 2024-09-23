@@ -18,4 +18,4 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTriton&layout=donut)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Costa&layout=donut)]
